@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "single_cycle_mmmips", "single_cycle_mmmips.vcxproj", "{F38F493A-5B37-443E-B91D-2FB09E5D3E7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F38F493A-5B37-443E-B91D-2FB09E5D3E7A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F38F493A-5B37-443E-B91D-2FB09E5D3E7A}.Debug|Win32.Build.0 = Debug|Win32
+		{F38F493A-5B37-443E-B91D-2FB09E5D3E7A}.Release|Win32.ActiveCfg = Release|Win32
+		{F38F493A-5B37-443E-B91D-2FB09E5D3E7A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
